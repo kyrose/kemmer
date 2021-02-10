@@ -9,7 +9,7 @@
 > - 3 tablespoons white sugar
 > - 1 ¼ teaspoons salt
 > - 1 teaspoon olive oil
-> - 1 tabkespoon milk
+> - 1 tablespoon milk
 
 ## Steps
 - [ ] Combine the warm water, yeast, and 1 tablespoon of sugar into a bowl and leave it for 10-15 minutes.
