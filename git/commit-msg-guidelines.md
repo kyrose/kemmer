@@ -19,6 +19,7 @@ range. It is more well-tested in the wild.
 Fixes #2310
 ```
 
+
 ## Summary, or the git subject line
 After listing the commit `<type>` (and potential scope/lang), write what changes will be applied, (i.e. `fix: correct typos in jasper-notes.md`)
 

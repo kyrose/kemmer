@@ -1,1 +1,0 @@
-# Git notes and references
