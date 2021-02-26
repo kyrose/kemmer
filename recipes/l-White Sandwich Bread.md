@@ -18,7 +18,7 @@
 - [ ] In a large mixing bowl combine half of the flour—or 2 cups, this measurement is not critical—with sugar and salt. Mix in 1 egg, the melted butter, and the yeast mixture then mix with a wooden spoon. Once the mixture starts to begin to form a dough switch from mixing with the spoon to your hands.
 
 
-- [ ] Once your dough has reached the right consistency transfer it to a floured surface. It should be sticky and elastic but not sticking to your fingers. Knead the dough for 10-15 minutes.
+- [ ] Once your dough has reached the right consistency transfer it to a floured surface. It should be sticky and elastic but not sticking to your fingers. Knead the dough until it passes th window pane test, about 10-15 minutes.
 
 
 - [ ] Form the dough into a smooth, round shape, gently tucking loose ends underneath. 
